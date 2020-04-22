@@ -1,4 +1,3 @@
-// Package lqs provides ...
 package main
 
 import (
